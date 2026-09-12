@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Aida Diop !
 
-🎓 *Étudiante en Licence 2 (L2) Génie Informatique* à l'Université Gaston Berger (Saint-Louis, Sénégal).  
-💻 Passionnée par le *développement web, la **programmation logicielle* et l'*administration de bases de données*.
+🎓 **Étudiante en Licence 2 (L2) Génie Informatique** à l'Université Gaston Berger (Saint-Louis, Sénégal).  
+💻 Passionnée par le **développement web**, la **programmation logicielle** et l'**administration de bases de données**.
 
 ---
 
